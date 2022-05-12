@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tumelo
 - 👀 I’m interested in Software Development,Java...etc
 - 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...any coding project {//e'particularly Java or Python;}
+- 💞️ I’m looking to collaborate on ...any coding project, particularly Java or Python;
 - 📫 How to reach me ... FB: https://web.facebook.com/maapeya.montoane/
 
 <!---

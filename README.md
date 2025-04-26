@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Tumelo
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on ...any coding project, particularly Java based;
+- 👋 Hi, Lorem Ipsum
 
 <!---
 Tumelo690/Tumelo690 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
